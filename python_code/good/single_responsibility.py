@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# In this implementation, it provide the same functionality as `python_code.bad.single_responsibility`.
+~# In this implementation, it provide the same functionality as `python_code.bad.single_responsibility`.
 # There is only one reason to modify the code of `Email` if you want to support different protocol. For
 # different content, you only need to define a new subtype of `IContent`. It's not the same in the
 # implementation of `python_code.bad.single_responsibility` since there are 2 senario which you have to
